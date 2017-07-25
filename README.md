@@ -1,0 +1,2 @@
+# Passing_two_queries_to_sp_execute_external_script
+Passing two queries to sp_execute_external_script
